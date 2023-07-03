@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/switch-sales/static/css/main.e2861f84.css",
+    "main.js": "/switch-sales/static/js/main.7cd97a4d.js",
+    "static/js/787.a9d0f774.chunk.js": "/switch-sales/static/js/787.a9d0f774.chunk.js",
+    "static/media/Handshake.webp": "/switch-sales/static/media/Handshake.ea07a1d258cf50345dae.webp",
+    "static/media/Review2.jpg": "/switch-sales/static/media/Review2.94eec96727d643a29fa4.jpg",
+    "static/media/Review1.jpg": "/switch-sales/static/media/Review1.da14df99e42d5352e497.jpg",
+    "static/media/Review5.jpg": "/switch-sales/static/media/Review5.57ce52d76a003a76a4da.jpg",
+    "static/media/Review4.jpg": "/switch-sales/static/media/Review4.a6aa7b16b749dde8fead.jpg",
+    "static/media/Review3.jpg": "/switch-sales/static/media/Review3.2db3dc12554914dae98d.jpg",
+    "static/media/Logo-V2.png": "/switch-sales/static/media/Logo-V2.696a530d10eda8184fbe.png",
+    "static/media/nintendoBigThree.jpg": "/switch-sales/static/media/nintendoBigThree.93fb2d30e9c8c50ca0da.jpg",
+    "static/media/logo.svg": "/switch-sales/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/switch-sales/index.html",
+    "main.e2861f84.css.map": "/switch-sales/static/css/main.e2861f84.css.map",
+    "main.7cd97a4d.js.map": "/switch-sales/static/js/main.7cd97a4d.js.map",
+    "787.a9d0f774.chunk.js.map": "/switch-sales/static/js/787.a9d0f774.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2861f84.css",
+    "static/js/main.7cd97a4d.js"
+  ]
+}
